@@ -33,9 +33,3 @@ I am Diego Ratto, a skilled QA Automation Engineer with extensive experience in 
 ![Qmetry](https://img.shields.io/badge/Qmetry-FF5733?style=flat&logo=qmetry&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoRatto&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DiegoRatto&count_bg=%23415A77&title_bg=%231B263B&icon=github.svg&icon_color=%23E0E1DD&title=Visitors&edge_flat=true)
-
-
